@@ -10,3 +10,13 @@ body {
 p {
     font-size: 25px;
 }
+#cr7{
+    height: 300px;
+    width: 300px
+}
+.links{
+display: inline;
+padding: 25px;    
+ color: white;
+}
+     
